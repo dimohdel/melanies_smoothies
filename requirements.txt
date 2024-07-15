@@ -1,5 +1,4 @@
 # requirements.txt
---prerelease=allow
 python==3.8.*
 snowflake-connector-python
 snoflake-snowpark-python
